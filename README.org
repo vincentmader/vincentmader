@@ -1,7 +1,7 @@
 Hi there 👋  I'm Vincent!
 
 - 📌  I'm based in [[https://maps.app.goo.gl/cPWUECdN23hHf52e9][Heidelberg, Germany]].
-- 🔭  I'm interested in physics & computer science, and
+- 🔭  I'm interested in physics & computer science, and love working on problems where these two fields intersect.
 - 🎓  I'm studying physics at the [[https://www.uni-heidelberg.de/en][Ruperto Carola University of Heidelberg]],
   + I wrote my [[https://github.com/vincentmader/bsc-thesis][Bachelor thesis]] at the [[https://www.mpia.de/en][Heidelberg Max Planck Institute for Astronomy & Astrophysics]], and 
   + I am currently writing my [[https://github.com/vincentmader/msc-thesis][Master thesis]] at the [[https://www.ita.uni-heidelberg.de/index.shtml?lang=en][Heidelberg Institute for Theoretical Astrophysics]].
