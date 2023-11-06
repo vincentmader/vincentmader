@@ -5,3 +5,5 @@ Hi there 👋  I'm Vincent!
 - 🎓  I'm studying physics at the [[https://www.uni-heidelberg.de/en][Ruperto Carola University of Heidelberg]], where
   + I wrote my [[https://github.com/vincentmader/bsc-thesis][Bachelor thesis]] at the [[https://www.mpia.de/en][Max Planck Institute for Astronomy]] on planetary gas accretion, and 
   + I am currently writing my [[https://github.com/vincentmader/msc-thesis][Master thesis]] at the [[https://www.ita.uni-heidelberg.de/index.shtml?lang=en][Institute for Theoretical Astrophysics]] on circumstellar dust coagulation.
+
+Feel free to check out my [[https://v1.mader.xyz][personal web-site]], [[https://www.linkedin.com/in/vincentmader][LinkedIn page]], or [[https://www.youtube.com/channel/UC1I21KewZFmPw_WCf-wucaw][YouTube channel]]!
